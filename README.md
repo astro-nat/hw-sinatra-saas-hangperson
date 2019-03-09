@@ -1,3 +1,5 @@
+Natalie Cluck, Programming 2, forked from https://github.com/saasbook/hw-sinatra-saas-hangperson
+
 Hangperson: a scaffolded (!) ESaaS getting-started assignment
 =============================================================
 
